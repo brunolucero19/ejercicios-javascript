@@ -1,4 +1,4 @@
-Ejercicios de JavaScript 
+Ejercicios de JavaScript - Parte 1
 <br>
 <br>
 Ejercicio 1: Conversión de Temperaturas
