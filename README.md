@@ -1,3 +1,8 @@
+<a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=js&perline=14" align="center" />
+</a>
+<br>
+<br>
 Ejercicios de JavaScript - Parte 1
 <br>
 <br>
